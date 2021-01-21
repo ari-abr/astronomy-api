@@ -6,9 +6,8 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-app.listen(3000, () => {
- console.log("Server running on port 3000");
-});
+app.listen(process.env.PORT);
+
 
 //load   results from  
 app.get('/', (req, res) => {
@@ -39,9 +38,3 @@ app.get('/', (req, res) => {
    app.get("/galaxies", (req, res) => {
     res.json(data.galaxies);
    });
-
-
-   //all bodies in one request
-   //
-   //meow
-   //h
