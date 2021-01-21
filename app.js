@@ -6,7 +6,10 @@ app.listen(3000, () => {
  console.log("Server running on port 3000");
 });
 
-//load   results from               
+//load   results from  
+app.get('/', (req, res) => {
+    res.send("It is working");
+  });             
 
     app.get("/all", (req, res) => {
     res.json(data);
