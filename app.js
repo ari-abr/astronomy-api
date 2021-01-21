@@ -1,7 +1,11 @@
 var data = require("./data.json") 
 var express = require("express");
-const { query } = require('express');
-var app = express();
+const cors = require('cors');
+
+const app = express();
+app.use(express.json());
+app.use(cors());
+
 app.listen(3000, () => {
  console.log("Server running on port 3000");
 });
@@ -40,3 +44,4 @@ app.get('/', (req, res) => {
    //all bodies in one request
    //
    //meow
+   //h
