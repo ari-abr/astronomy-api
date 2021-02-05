@@ -33,8 +33,3 @@ app.get('/', (req, res) => {
    app.get("/exoplanets", (req, res) => {
     res.json(data.exoplanets);
    });
-
-
-   app.get("/galaxies", (req, res) => {
-    res.json(data.galaxies);
-   });

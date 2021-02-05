@@ -1,347 +1,347 @@
 {"planets": [
-    {
-      "Name": "Mercury",
-      "Nickname": "Swift Planet",
-      "Type": "Planet",
-      "Host Star": "Sun",
-      "Mass (kg)": "3.285×10^23",
-      "Radius (km)": 2440,
-      "Temperature (K)": 723.5,
-      "Semi-major Axis (km)": "5.790905×10^7",
-      "Eccentricity": 0.21,
-      "Orbital Period (days)": 87.97,
-      "Aphelion (km)": "6.98169×10^7",
-      "Perihelion (km)": "4.60012×10^7",
-      "Synodic Period (days)": "115.88",
-      "Average Orbital Speed (km": {
-         "s)": 47.36
-      },
-      "Satellites": {
-         "Moons": "None"
-      },
-      "Surface Area (km)": "7.48×10^7",
-      "Volume (km^3)": "6.083×10^10",
-      "Density (g": {
-         "cm)": 5.43
-      },
-      "Surface Gravity (m": {
-         "s^2)": 3.7
-      },
-      "Escape Velocity (km": {
-         "s)": 4.25
-      },
-      "Sidereal Rotation Period (days)": "58.65",
-      "Composition": "70% Metals, 30% Silicates",
-      "Apparent Magnitude": "−2.48 to +7.25",
-      "Albedo": 0.14,
-      "Axial Tilt (to orbit, degrees)": 0.03,
-      "Picture": "https://astronomy.com/~/media/F04E91F327B0489692C4DC04DBAB5F2D.jpg"
-   },
-    {
-      "Name": "Venus",
-      "Nickname": "Morning/Evening Star",
-      "Type": "Planet",
-      "Host Star": "Sun",
-      "Mass (kg)": "4.867×10^24",
-      "Radius (km)": 6052,
-      "Temperature (K)": 737,
-      "Semi-major Axis (km)": "1.08208×10^8",
-      "Eccentricity": 0.01,
-      "Orbital Period (days)": 224.7,
-      "Aphelion (km)": "1.08939×10^8",
-      "Perihelion (km)": "1.07477×10^8",
-      "Synodic Period (days)": "583.92",
-      "Average Orbital Speed (km": {
-         "s)": 35.02
-      },
-      "Satellites": {
-         "Moons": "None"
-      },
-      "Surface Area (km)": "4.6023×10^8",
-      "Volume (km^3)": "9.2843×10^11",
-      "Density (g": {
-         "cm)": 5.24
-      },
-      "Surface Gravity (m": {
-         "s^2)": 8.87
-      },
-      "Escape Velocity (km": {
-         "s)": 10.36
-      },
-      "Sidereal Rotation Period (days)": "−243.03",
-      "Composition": "96.5% Carbon Dioxide, 3.5% Nitrogen",
-      "Apparent Magnitude": "−4.92 to −2.98",
-      "Albedo": 0.69,
-      "Axial Tilt (to orbit, degrees)": 177.36,
-      "Picture": "https://cdn.mos.cms.futurecdn.net/8XKyr5TnMNWk3YduwA3yeM.jpg"
-   },
-    {
-      "Name": "Earth",
-      "Nickname": "Blue Planet, Gaia, Terra",
-      "Type": "Planet",
-      "Host Star": "Sun",
-      "Mass (kg)": "5.972×10^24",
-      "Radius (km)": 6371,
-      "Temperature (K)": 287.16,
-      "Semi-major Axis (km)": "1.49598×10^8",
-      "Eccentricity": 0.02,
-      "Orbital Period (days)": 365,
-      "Aphelion (km)": "1.521×10^8",
-      "Perihelion (km)": "1.47095×10^8",
-      "Synodic Period (days)": "-",
-      "Average Orbital Speed (km": {
-         "s)": 29.78
-      },
-      "Satellites": {
-         "Moons": "Moon"
-      },
-      "Surface Area (km)": "5.1 x 10^8 ",
-      "Volume (km^3)": "\t1.08321×10^12",
-      "Density (g": {
-         "cm)": 5.51
-      },
-      "Surface Gravity (m": {
-         "s^2)": 9.81
-      },
-      "Escape Velocity (km": {
-         "s)": 11.19
-      },
-      "Sidereal Rotation Period (days)": "1.00",
-      "Composition": "78% Nitrogen, 21% Oxygen",
-      "Apparent Magnitude": "",
-      "Albedo": 0.37,
-      "Axial Tilt (to orbit, degrees)": 23.44,
-      "Picture": "https://cdn.mos.cms.futurecdn.net/YLMh9EJRPhmht9GWNhiN7G-1200-80.jpg"
-   },
-    {
-      "Name": "Mars",
-      "Nickname": "Red Planet",
-      "Type": "Planet",
-      "Host Star": "Sun",
-      "Mass (kg)": "6.39×10^23",
-      "Radius (km)": 3390,
-      "Temperature (K)": 210,
-      "Semi-major Axis (km)": "2.279392×10^8",
-      "Eccentricity": 0.09,
-      "Orbital Period (days)": 686.97,
-      "Aphelion (km)": "2.492×10^8",
-      "Perihelion (km)": "2.067×10^8",
-      "Synodic Period (days)": "779.96",
-      "Average Orbital Speed (km": {
-         "s)": 24.01
-      },
-      "Satellites": {
-         "Moons": "(2) Phobos, Deimos"
-      },
-      "Surface Area (km)": "1.447985 × 10^8",
-      "Volume (km^3)": "1.6318×10^11",
-      "Density (g": {
-         "cm)": 3.93
-      },
-      "Surface Gravity (m": {
-         "s^2)": 3.72
-      },
-      "Escape Velocity (km": {
-         "s)": 5.03
-      },
-      "Sidereal Rotation Period (days)": "1.03",
-      "Composition": "95.97% Carbon Dioxide, 1.93% Argon, 1.89% Nitrogen",
-      "Apparent Magnitude": "−2.94 to +1.86",
-      "Albedo": 0.17,
-      "Axial Tilt (to orbit, degrees)": 25.19,
-      "Picture": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg"
-   },
-    {
-      "Name": "Jupiter",
-      "Nickname": "Gas Giant",
-      "Type": "Planet",
-      "Host Star": "Sun",
-      "Mass (kg)": "1.898×10^27",
-      "Radius (km)": 69911,
-      "Temperature (K)": 140,
-      "Semi-major Axis (km)": "7.7857×10^8",
-      "Eccentricity": 0.05,
-      "Orbital Period (days)": 4332.59,
-      "Aphelion (km)": "8.1662×10^8",
-      "Perihelion (km)": "7.4052×10^8",
-      "Synodic Period (days)": "398.88",
-      "Average Orbital Speed (km": {
-         "s)": 13.07
-      },
-      "Satellites": {
-         "Moons": "(79) Io, Europa, Ganymede, Callisto,  Metis, Adrastea, Amalthea, Thebe, Themisto, Leda, Ersa, Pandia, Himalia, Lysithea, Elara, Dia, Carpo, Valetudo, Euporie, Epheme, S/2003J18, S/2010J2, Helike, S2003J16, S2003J2, Eaunthe, S/2017J7, Hermippe, Praxidike, Thyone, Thelxinoe, S/2017J3, Ananke, mneme, S/2016J1, Orthosie, Harpalyke, Iocaste, S/2017J9, S/2003J12, S/2003J4, Erinome, Aitne, Herse, Taygete, S/2017J2, S/2017J6, Eukelade, Carme, S/2003J19, Isonoe, Autonoe, Philophrosyne, Cyllene, Pasithee, S/2010J1, S/2003J10, Pasiphae, Sponde, S/2017J8, Eurydome, S/2017J5, Kalyke, Hegemone, Kale, Kallichore, S/2011J1, S/2017J1, Chaldene, Arche, Eirene, Kore, S/2011J2, S/2003J9, Megaclite, Aoede, S/2003J23, Callirrhoe, Sinope"
-      },
-      "Surface Area (km)": "6.1419×10^10",
-      "Volume (km^3)": "1.4313×10^15",
-      "Density (g": {
-         "cm)": 1326
-      },
-      "Surface Gravity (m": {
-         "s^2)": 24.79
-      },
-      "Escape Velocity (km": {
-         "s)": 59.5
-      },
-      "Sidereal Rotation Period (days)": "0.41",
-      "Composition": "89% Hydrogen, 10% Helium, 0.3% Methane",
-      "Apparent Magnitude": "−2.94 to –1.66",
-      "Albedo": 0.54,
-      "Axial Tilt (to orbit, degrees)": 3.13,
-      "Picture": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg"
-   },
-    {
-      "Name": "Saturn",
-      "Nickname": "Ringed Planet",
-      "Type": "Planet",
-      "Host Star": "Sun",
-      "Mass (kg)": "5.683×10^26\n",
-      "Radius (km)": 58232,
-      "Temperature (K)": 97,
-      "Semi-major Axis (km)": "1.43353×10^9",
-      "Eccentricity": 0.06,
-      "Orbital Period (days)": 10759.22,
-      "Aphelion (km)": "1.5145×10^9",
-      "Perihelion (km)": "1.35255×10^9",
-      "Synodic Period (days)": "378.09",
-      "Average Orbital Speed (km": {
-         "s)": 9.68
-      },
-      "Satellites": {
-         "Moons": "(82) Titan, Rhea, Iapetus, Dione, Tethys, Enceladus, Mimas, Hyperion, Phoebe, Janus, Epimethus, Prometheus, Pandora, Siarnaq, Helene, Atlas, Albiorix, Pan, Paaliq, Telesto, Calypso, Ymir, Kiviuq, Tarvos, Erriapus, Skathi, Hyrrokkin, Thrymr, Daphnis, Tarqeq, Mundilfari, Suttungr, Narvi, Bestla, S/2007S2, Bebhionn, S/2004S13, Jarnsaxa, S/2004S3, S/2004S35, Kari, Surtur, Fornjot, Skill, Greip, S/2007S3, Bergelmir, Hati, S.2004S12, Farbauti, Loge, Pallene, S/2004S37, S/2004S29, S/2004S31, S/2004S20, S/2004S17, S/2004S25, S/2004S32, S/2004S23, S/2004S28, S/2004S38, Fenrir, S/2004S33, S/2004S26, S/2004S30, S/2004S22, S/2004S24, S/2004S21, S/2004S39, S/2004S36, S/2004S34, Methone, Polydeuces, Anthe, Aegaeon, S/2009S1, Moonlets"
-      },
-      "Surface Area (km)": "4.27×10^10",
-      "Volume (km^3)": "8.2713×10^14",
-      "Density (g": {
-         "cm)": 0.69
-      },
-      "Surface Gravity (m": {
-         "s^2)": 10.44
-      },
-      "Escape Velocity (km": {
-         "s)": 35.5
-      },
-      "Sidereal Rotation Period (days)": "0.44",
-      "Composition": "96.3% Hydrogen, 3.25% Helium, 0.45% Methane",
-      "Apparent Magnitude": "\t−0.55 to +1.17",
-      "Albedo": 0.5,
-      "Axial Tilt (to orbit, degrees)": 26.73,
-      "Picture": "https://astronomy.com/~/media/8869F96544004BA298FE10708769601D.jpg"
-   },
-    {
-      "Name": "Uranus",
-      "Nickname": "Sideways Planet",
-      "Type": "Planet",
-      "Host Star": "Sun",
-      "Mass (kg)": "8.681×10^25",
-      "Radius (km)": 25362,
-      "Temperature (K)": 59.26,
-      "Semi-major Axis (km)": "2.8750317×10^9",
-      "Eccentricity": 0.05,
-      "Orbital Period (days)": 30688.5,
-      "Aphelion (km)": "3.008×10^9",
-      "Perihelion (km)": "2.742×10^9",
-      "Synodic Period (days)": "369.66",
-      "Average Orbital Speed (km": {
-         "s)": 6.8
-      },
-      "Satellites": {
-         "Moons": "(27) Titania, Oberon, Umbriel, Ariel, Miranda, Puck, Sycorax, Portia, Juliet, Belinda, Cressida, Rosalind, Desdemona, Bianca, Prospero, Setebos, Ophelia, Caliban, Cordelia, Stephano, Perdita, Mab, Francisco, Margaret, Ferdinand, Cupid, Trinculo"
-      },
-      "Surface Area (km)": "8.1156×10^9",
-      "Volume (km^3)": "6.833×10^13",
-      "Density (g": {
-         "cm)": 1.27
-      },
-      "Surface Gravity (m": {
-         "s^2)": 8.69
-      },
-      "Escape Velocity (km": {
-         "s)": 21.3
-      },
-      "Sidereal Rotation Period (days)": "−0.72",
-      "Composition": "83% Hydrogen, 15% Helium, 2.3% Methane",
-      "Apparent Magnitude": "5.38 to 6.03",
-      "Albedo": 0.49,
-      "Axial Tilt (to orbit, degrees)": 97.77,
-      "Picture": "https://astronomy.com/-/media/Images/Magazine%20Articles/2018/10/ASYSM1018_01.jpg"
-   },
-    {
-      "Name": "Neptune",
-      "Nickname": "Blue Planet",
-      "Type": "Planet",
-      "Host Star": "Sun",
-      "Mass (kg)": "1.024×10^26\n",
-      "Radius (km)": 24622,
-      "Temperature (K)": 60,
-      "Semi-major Axis (km)": "4.5×10^9",
-      "Eccentricity": 0.01,
-      "Orbital Period (days)": 60182,
-      "Aphelion (km)": "4.5373×10^9",
-      "Perihelion (km)": "4.46×10^9",
-      "Synodic Period (days)": "367.49",
-      "Average Orbital Speed (km": {
-         "s)": 5.43
-      },
-      "Satellites": {
-         "Moons": "(14)  Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, Proteus, Triton, Nereid, Halimede, Sao, Laomedeia, Psamathe, Neso"
-      },
-      "Surface Area (km)": "7.6183×10^9",
-      "Volume (km^3)": "6.254×10^13",
-      "Density (g": {
-         "cm)": 1.64
-      },
-      "Surface Gravity (m": {
-         "s^2)": 11.15
-      },
-      "Escape Velocity (km": {
-         "s)": 23.5
-      },
-      "Sidereal Rotation Period (days)": "0.67",
-      "Composition": "80% Hydrogen, 19% Helium, 1.5% Methane",
-      "Apparent Magnitude": "7.67 to 8.00",
-      "Albedo": 0.44,
-      "Axial Tilt (to orbit, degrees)": 28.32,
-      "Picture": "https://astronomy.com/-/media/import/images/3/7/9/neptune_voy2_900.jpg?mw=600"
-   },
-    {
-      "Name": "Pluto",
-      "Nickname": "Dwarf",
-      "Type": "Planet, Dwarf Planet",
-      "Host Star": "Sun",
-      "Mass (kg)": "1.30900×10^22",
-      "Radius (km)": 1188,
-      "Temperature (K)": 44,
-      "Semi-major Axis (km)": "5.90638×10^9",
-      "Eccentricity": 0.25,
-      "Orbital Period (days)": 90560,
-      "Aphelion (km)": "7.37593×10^9",
-      "Perihelion (km)": "4.43682×10^9",
-      "Synodic Period (days)": "366.73",
-      "Average Orbital Speed (km": {
-         "s)": 4.74
-      },
-      "Satellites": {
-         "Moons": "(5) Charon, Styx, Kerberos, Nix, Hydra"
-      },
-      "Surface Area (km)": "1.779×10^7",
-      "Volume (km^3)": "7.057×10^9",
-      "Density (g": {
-         "cm)": 1.85
-      },
-      "Surface Gravity (m": {
-         "s^2)": 0.62
-      },
-      "Escape Velocity (km": {
-         "s)": 1.21
-      },
-      "Sidereal Rotation Period (days)": "6.39",
-      "Composition": "Nitrogen, Methane, Carbane Monoxide",
-      "Apparent Magnitude": "\t13.65 to 16.3",
-      "Albedo": 0.5,
-      "Axial Tilt (to orbit, degrees)": 122.53,
-      "Picture": "https://astronomy.com/-/media/Images/News%20and%20Observing/News/2020/07/plutoheart2.jpg?mw=600"
-   }
-   ],
+   {
+     "Name": "Mercury",
+     "Nickname": "Swift Planet",
+     "Type": "Planet",
+     "Host Star": "Sun",
+     "Mass (kg)": "3.285×10^23",
+     "Radius (km)": 2440,
+     "Temperature (K)": 723.5,
+     "Semi-major Axis (km)": "5.790905×10^7",
+     "Eccentricity": 0.21,
+     "Orbital Period (days)": 87.97,
+     "Aphelion (km)": "6.98169×10^7",
+     "Perihelion (km)": "4.60012×10^7",
+     "Synodic Period (days)": "115.88",
+     "Average Orbital Speed (km": {
+        "s)": 47.36
+     },
+     "Satellites": {
+        "Moons": "None"
+     },
+     "Surface Area (km)": "7.48×10^7",
+     "Volume (km^3)": "6.083×10^10",
+     "Density (g": {
+        "cm)": 5.43
+     },
+     "Surface Gravity (m": {
+        "s^2)": 3.7
+     },
+     "Escape Velocity (km": {
+        "s)": 4.25
+     },
+     "Sidereal Rotation Period (days)": "58.65",
+     "Composition": "70% Metals, 30% Silicates",
+     "Apparent Magnitude": "−2.48 to +7.25",
+     "Albedo": 0.14,
+     "Axial Tilt (to orbit, degrees)": 0.03,
+     "Picture": "https://astronomy.com/~/media/F04E91F327B0489692C4DC04DBAB5F2D.jpg"
+  },
+   {
+     "Name": "Venus",
+     "Nickname": "Morning/Evening Star",
+     "Type": "Planet",
+     "Host Star": "Sun",
+     "Mass (kg)": "4.867×10^24",
+     "Radius (km)": 6052,
+     "Temperature (K)": 737,
+     "Semi-major Axis (km)": "1.08208×10^8",
+     "Eccentricity": 0.01,
+     "Orbital Period (days)": 224.7,
+     "Aphelion (km)": "1.08939×10^8",
+     "Perihelion (km)": "1.07477×10^8",
+     "Synodic Period (days)": "583.92",
+     "Average Orbital Speed (km": {
+        "s)": 35.02
+     },
+     "Satellites": {
+        "Moons": "None"
+     },
+     "Surface Area (km)": "4.6023×10^8",
+     "Volume (km^3)": "9.2843×10^11",
+     "Density (g": {
+        "cm)": 5.24
+     },
+     "Surface Gravity (m": {
+        "s^2)": 8.87
+     },
+     "Escape Velocity (km": {
+        "s)": 10.36
+     },
+     "Sidereal Rotation Period (days)": "−243.03",
+     "Composition": "96.5% Carbon Dioxide, 3.5% Nitrogen",
+     "Apparent Magnitude": "−4.92 to −2.98",
+     "Albedo": 0.69,
+     "Axial Tilt (to orbit, degrees)": 177.36,
+     "Picture": "https://cdn.mos.cms.futurecdn.net/8XKyr5TnMNWk3YduwA3yeM.jpg"
+  },
+   {
+     "Name": "Earth",
+     "Nickname": "Blue Planet, Gaia, Terra",
+     "Type": "Planet",
+     "Host Star": "Sun",
+     "Mass (kg)": "5.972×10^24",
+     "Radius (km)": 6371,
+     "Temperature (K)": 287.16,
+     "Semi-major Axis (km)": "1.49598×10^8",
+     "Eccentricity": 0.02,
+     "Orbital Period (days)": 365,
+     "Aphelion (km)": "1.521×10^8",
+     "Perihelion (km)": "1.47095×10^8",
+     "Synodic Period (days)": "-",
+     "Average Orbital Speed (km": {
+        "s)": 29.78
+     },
+     "Satellites": {
+        "Moons": "Moon"
+     },
+     "Surface Area (km)": "5.1 x 10^8 ",
+     "Volume (km^3)": "\t1.08321×10^12",
+     "Density (g": {
+        "cm)": 5.51
+     },
+     "Surface Gravity (m": {
+        "s^2)": 9.81
+     },
+     "Escape Velocity (km": {
+        "s)": 11.19
+     },
+     "Sidereal Rotation Period (days)": "1.00",
+     "Composition": "78% Nitrogen, 21% Oxygen",
+     "Apparent Magnitude": "",
+     "Albedo": 0.37,
+     "Axial Tilt (to orbit, degrees)": 23.44,
+     "Picture": "https://cdn.mos.cms.futurecdn.net/YLMh9EJRPhmht9GWNhiN7G-1200-80.jpg"
+  },
+   {
+     "Name": "Mars",
+     "Nickname": "Red Planet",
+     "Type": "Planet",
+     "Host Star": "Sun",
+     "Mass (kg)": "6.39×10^23",
+     "Radius (km)": 3390,
+     "Temperature (K)": 210,
+     "Semi-major Axis (km)": "2.279392×10^8",
+     "Eccentricity": 0.09,
+     "Orbital Period (days)": 686.97,
+     "Aphelion (km)": "2.492×10^8",
+     "Perihelion (km)": "2.067×10^8",
+     "Synodic Period (days)": "779.96",
+     "Average Orbital Speed (km": {
+        "s)": 24.01
+     },
+     "Satellites": {
+        "Moons": "(2) Phobos, Deimos"
+     },
+     "Surface Area (km)": "1.447985 × 10^8",
+     "Volume (km^3)": "1.6318×10^11",
+     "Density (g": {
+        "cm)": 3.93
+     },
+     "Surface Gravity (m": {
+        "s^2)": 3.72
+     },
+     "Escape Velocity (km": {
+        "s)": 5.03
+     },
+     "Sidereal Rotation Period (days)": "1.03",
+     "Composition": "95.97% Carbon Dioxide, 1.93% Argon, 1.89% Nitrogen",
+     "Apparent Magnitude": "−2.94 to +1.86",
+     "Albedo": 0.17,
+     "Axial Tilt (to orbit, degrees)": 25.19,
+     "Picture": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg"
+  },
+   {
+     "Name": "Jupiter",
+     "Nickname": "Gas Giant",
+     "Type": "Planet",
+     "Host Star": "Sun",
+     "Mass (kg)": "1.898×10^27",
+     "Radius (km)": 69911,
+     "Temperature (K)": 140,
+     "Semi-major Axis (km)": "7.7857×10^8",
+     "Eccentricity": 0.05,
+     "Orbital Period (days)": 4332.59,
+     "Aphelion (km)": "8.1662×10^8",
+     "Perihelion (km)": "7.4052×10^8",
+     "Synodic Period (days)": "398.88",
+     "Average Orbital Speed (km": {
+        "s)": 13.07
+     },
+     "Satellites": {
+        "Moons": "(79) Io, Europa, Ganymede, Callisto,  Metis, Adrastea, Amalthea, Thebe, Themisto, Leda, Ersa, Pandia, Himalia, Lysithea, Elara, Dia, Carpo, Valetudo, Euporie, Epheme, S/2003J18, S/2010J2, Helike, S2003J16, S2003J2, Eaunthe, S/2017J7, Hermippe, Praxidike, Thyone, Thelxinoe, S/2017J3, Ananke, mneme, S/2016J1, Orthosie, Harpalyke, Iocaste, S/2017J9, S/2003J12, S/2003J4, Erinome, Aitne, Herse, Taygete, S/2017J2, S/2017J6, Eukelade, Carme, S/2003J19, Isonoe, Autonoe, Philophrosyne, Cyllene, Pasithee, S/2010J1, S/2003J10, Pasiphae, Sponde, S/2017J8, Eurydome, S/2017J5, Kalyke, Hegemone, Kale, Kallichore, S/2011J1, S/2017J1, Chaldene, Arche, Eirene, Kore, S/2011J2, S/2003J9, Megaclite, Aoede, S/2003J23, Callirrhoe, Sinope"
+     },
+     "Surface Area (km)": "6.1419×10^10",
+     "Volume (km^3)": "1.4313×10^15",
+     "Density (g": {
+        "cm)": 1326
+     },
+     "Surface Gravity (m": {
+        "s^2)": 24.79
+     },
+     "Escape Velocity (km": {
+        "s)": 59.5
+     },
+     "Sidereal Rotation Period (days)": "0.41",
+     "Composition": "89% Hydrogen, 10% Helium, 0.3% Methane",
+     "Apparent Magnitude": "−2.94 to –1.66",
+     "Albedo": 0.54,
+     "Axial Tilt (to orbit, degrees)": 3.13,
+     "Picture": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg"
+  },
+   {
+     "Name": "Saturn",
+     "Nickname": "Ringed Planet",
+     "Type": "Planet",
+     "Host Star": "Sun",
+     "Mass (kg)": "5.683×10^26\n",
+     "Radius (km)": 58232,
+     "Temperature (K)": 97,
+     "Semi-major Axis (km)": "1.43353×10^9",
+     "Eccentricity": 0.06,
+     "Orbital Period (days)": 10759.22,
+     "Aphelion (km)": "1.5145×10^9",
+     "Perihelion (km)": "1.35255×10^9",
+     "Synodic Period (days)": "378.09",
+     "Average Orbital Speed (km": {
+        "s)": 9.68
+     },
+     "Satellites": {
+        "Moons": "(82) Titan, Rhea, Iapetus, Dione, Tethys, Enceladus, Mimas, Hyperion, Phoebe, Janus, Epimethus, Prometheus, Pandora, Siarnaq, Helene, Atlas, Albiorix, Pan, Paaliq, Telesto, Calypso, Ymir, Kiviuq, Tarvos, Erriapus, Skathi, Hyrrokkin, Thrymr, Daphnis, Tarqeq, Mundilfari, Suttungr, Narvi, Bestla, S/2007S2, Bebhionn, S/2004S13, Jarnsaxa, S/2004S3, S/2004S35, Kari, Surtur, Fornjot, Skill, Greip, S/2007S3, Bergelmir, Hati, S.2004S12, Farbauti, Loge, Pallene, S/2004S37, S/2004S29, S/2004S31, S/2004S20, S/2004S17, S/2004S25, S/2004S32, S/2004S23, S/2004S28, S/2004S38, Fenrir, S/2004S33, S/2004S26, S/2004S30, S/2004S22, S/2004S24, S/2004S21, S/2004S39, S/2004S36, S/2004S34, Methone, Polydeuces, Anthe, Aegaeon, S/2009S1, Moonlets"
+     },
+     "Surface Area (km)": "4.27×10^10",
+     "Volume (km^3)": "8.2713×10^14",
+     "Density (g": {
+        "cm)": 0.69
+     },
+     "Surface Gravity (m": {
+        "s^2)": 10.44
+     },
+     "Escape Velocity (km": {
+        "s)": 35.5
+     },
+     "Sidereal Rotation Period (days)": "0.44",
+     "Composition": "96.3% Hydrogen, 3.25% Helium, 0.45% Methane",
+     "Apparent Magnitude": "\t−0.55 to +1.17",
+     "Albedo": 0.5,
+     "Axial Tilt (to orbit, degrees)": 26.73,
+     "Picture": "https://astronomy.com/~/media/8869F96544004BA298FE10708769601D.jpg"
+  },
+   {
+     "Name": "Uranus",
+     "Nickname": "Sideways Planet",
+     "Type": "Planet",
+     "Host Star": "Sun",
+     "Mass (kg)": "8.681×10^25",
+     "Radius (km)": 25362,
+     "Temperature (K)": 59.26,
+     "Semi-major Axis (km)": "2.8750317×10^9",
+     "Eccentricity": 0.05,
+     "Orbital Period (days)": 30688.5,
+     "Aphelion (km)": "3.008×10^9",
+     "Perihelion (km)": "2.742×10^9",
+     "Synodic Period (days)": "369.66",
+     "Average Orbital Speed (km": {
+        "s)": 6.8
+     },
+     "Satellites": {
+        "Moons": "(27) Titania, Oberon, Umbriel, Ariel, Miranda, Puck, Sycorax, Portia, Juliet, Belinda, Cressida, Rosalind, Desdemona, Bianca, Prospero, Setebos, Ophelia, Caliban, Cordelia, Stephano, Perdita, Mab, Francisco, Margaret, Ferdinand, Cupid, Trinculo"
+     },
+     "Surface Area (km)": "8.1156×10^9",
+     "Volume (km^3)": "6.833×10^13",
+     "Density (g": {
+        "cm)": 1.27
+     },
+     "Surface Gravity (m": {
+        "s^2)": 8.69
+     },
+     "Escape Velocity (km": {
+        "s)": 21.3
+     },
+     "Sidereal Rotation Period (days)": "−0.72",
+     "Composition": "83% Hydrogen, 15% Helium, 2.3% Methane",
+     "Apparent Magnitude": "5.38 to 6.03",
+     "Albedo": 0.49,
+     "Axial Tilt (to orbit, degrees)": 97.77,
+     "Picture": "https://astronomy.com/-/media/Images/Magazine%20Articles/2018/10/ASYSM1018_01.jpg"
+  },
+   {
+     "Name": "Neptune",
+     "Nickname": "Blue Planet",
+     "Type": "Planet",
+     "Host Star": "Sun",
+     "Mass (kg)": "1.024×10^26\n",
+     "Radius (km)": 24622,
+     "Temperature (K)": 60,
+     "Semi-major Axis (km)": "4.5×10^9",
+     "Eccentricity": 0.01,
+     "Orbital Period (days)": 60182,
+     "Aphelion (km)": "4.5373×10^9",
+     "Perihelion (km)": "4.46×10^9",
+     "Synodic Period (days)": "367.49",
+     "Average Orbital Speed (km": {
+        "s)": 5.43
+     },
+     "Satellites": {
+        "Moons": "(14)  Naiad, Thalassa, Despina, Galatea, Larissa, Hippocamp, Proteus, Triton, Nereid, Halimede, Sao, Laomedeia, Psamathe, Neso"
+     },
+     "Surface Area (km)": "7.6183×10^9",
+     "Volume (km^3)": "6.254×10^13",
+     "Density (g": {
+        "cm)": 1.64
+     },
+     "Surface Gravity (m": {
+        "s^2)": 11.15
+     },
+     "Escape Velocity (km": {
+        "s)": 23.5
+     },
+     "Sidereal Rotation Period (days)": "0.67",
+     "Composition": "80% Hydrogen, 19% Helium, 1.5% Methane",
+     "Apparent Magnitude": "7.67 to 8.00",
+     "Albedo": 0.44,
+     "Axial Tilt (to orbit, degrees)": 28.32,
+     "Picture": "https://astronomy.com/-/media/import/images/3/7/9/neptune_voy2_900.jpg?mw=600"
+  },
+   {
+     "Name": "Pluto",
+     "Nickname": "Dwarf",
+     "Type": "Planet, Dwarf Planet",
+     "Host Star": "Sun",
+     "Mass (kg)": "1.30900×10^22",
+     "Radius (km)": 1188,
+     "Temperature (K)": 44,
+     "Semi-major Axis (km)": "5.90638×10^9",
+     "Eccentricity": 0.25,
+     "Orbital Period (days)": 90560,
+     "Aphelion (km)": "7.37593×10^9",
+     "Perihelion (km)": "4.43682×10^9",
+     "Synodic Period (days)": "366.73",
+     "Average Orbital Speed (km": {
+        "s)": 4.74
+     },
+     "Satellites": {
+        "Moons": "(5) Charon, Styx, Kerberos, Nix, Hydra"
+     },
+     "Surface Area (km)": "1.779×10^7",
+     "Volume (km^3)": "7.057×10^9",
+     "Density (g": {
+        "cm)": 1.85
+     },
+     "Surface Gravity (m": {
+        "s^2)": 0.62
+     },
+     "Escape Velocity (km": {
+        "s)": 1.21
+     },
+     "Sidereal Rotation Period (days)": "6.39",
+     "Composition": "Nitrogen, Methane, Carbane Monoxide",
+     "Apparent Magnitude": "\t13.65 to 16.3",
+     "Albedo": 0.5,
+     "Axial Tilt (to orbit, degrees)": 122.53,
+     "Picture": "https://astronomy.com/-/media/Images/News%20and%20Observing/News/2020/07/plutoheart2.jpg?mw=600"
+  }
+  ],
    "moons":[
     {
       "Name": "Moon",
@@ -3494,8 +3494,219 @@
       "Temperature (K)": null
    }
    ],
-   "stars" : ["Bellatrix", "Serius"],
-   "exoplanets" : ["Bellatrix", "Serius"],
-   "galaxies": ["Milky Way", "Andromeda"
-   ]
+   "stars" : [
+      {
+        "Name": "Canopus",
+        "Type": "Star",
+        "Constellation": "Carina",
+        "Star System": "",
+        "Bayer Designation": "",
+        "Right Ascension": "06h 23m 57.10988s",
+        "Declination": "−52° 41′ 44.3810″",
+        "Apparent Magnitude": "−0.74",
+        "Spectral Type": "A9 II",
+        "Radial Velocity (km": {
+           "s)": "20"
+        },
+        "Parallax": 11,
+        "Distance (ly)": 310,
+        "Absolute Magnitude": "–5.71",
+        "Mass (Solar Mass M☉)": 9,
+        "Radius (Solar Radius R☉)": 71,
+        "Luminosity (Solar Luminosity L☉)": "10,700",
+        "Temperature": "7,400",
+        "Rotational Velocity (km": {
+           "s)": 20
+        }
+     },
+      {
+        "Name": "Arcturus",
+        "Type": "Star",
+        "Constellation": "Bootes",
+        "Star System": "",
+        "Bayer Designation": "α Bootis",
+        "Right Ascension": "\t14h 15m 39.7s",
+        "Declination": "19 10' 56'",
+        "Apparent Magnitude": "−0.05",
+        "Spectral Type": "K0 III",
+        "Radial Velocity (km": {
+           "s)": "−5.19"
+        },
+        "Parallax": 88.83,
+        "Distance (ly)": 36.7,
+        "Absolute Magnitude": "−0.30",
+        "Mass (Solar Mass M☉)": 1.08,
+        "Radius (Solar Radius R☉)": 25.4,
+        "Luminosity (Solar Luminosity L☉)": "170",
+        "Temperature": "4286",
+        "Rotational Velocity (km": {
+           "s)": 2.4
+        }
+     },
+      {
+        "Name": "Vega",
+        "Type": "Star",
+        "Constellation": "Lyra",
+        "Star System": "",
+        "Bayer Designation": "α Lyrae",
+        "Right Ascension": "18h 36m 56.33635s",
+        "Declination": "38° 47′ 01.2802″",
+        "Apparent Magnitude": "0.026",
+        "Spectral Type": "A0 Va",
+        "Radial Velocity (km": {
+           "s)": "−13.9"
+        },
+        "Parallax": 130.23,
+        "Distance (ly)": 25.04,
+        "Absolute Magnitude": "0.582",
+        "Mass (Solar Mass M☉)": 2.135,
+        "Radius (Solar Radius R☉)": 2.362,
+        "Luminosity (Solar Luminosity L☉)": "40.12",
+        "Temperature": "9,000",
+        "Rotational Velocity (km": {
+           "s)": 20.48
+        }
+     },
+      {
+        "Name": "Capella",
+        "Type": "Star",
+        "Constellation": "Auriga",
+        "Star System": "Quadruple star system, 2 binary pairs",
+        "Bayer Designation": "α Aurigae",
+        "Right Ascension": "05h 16m 41.35871s",
+        "Declination": "45° 50′ 22.97",
+        "Apparent Magnitude": "0.08",
+        "Spectral Type": "G3III",
+        "Radial Velocity (km": {
+           "s)": "29.9387"
+        },
+        "Parallax": 76.2,
+        "Distance (ly)": 42.919,
+        "Absolute Magnitude": "0.2",
+        "Mass (Solar Mass M☉)": 2.5687,
+        "Radius (Solar Radius R☉)": 11.98,
+        "Luminosity (Solar Luminosity L☉)": "78.7",
+        "Temperature": "4,970",
+        "Rotational Velocity (km": {
+           "s)": 4.1
+        }
+     },
+      {
+        "Name": "Rigel",
+        "Type": "Star",
+        "Constellation": "Orion",
+        "Star System": "Quadruple star system",
+        "Bayer Designation": " β Orionis",
+        "Right Ascension": "\t05h 14m 32.27210",
+        "Declination": "−08° 12′ 05.8981″",
+        "Apparent Magnitude": "0.13",
+        "Spectral Type": "B8 Ia",
+        "Radial Velocity (km": {
+           "s)": "17.8"
+        },
+        "Parallax": 3.78,
+        "Distance (ly)": 860,
+        "Absolute Magnitude": "-7.84",
+        "Mass (Solar Mass M☉)": 21,
+        "Radius (Solar Radius R☉)": null,
+        "Luminosity (Solar Luminosity L☉)": "",
+        "Temperature": "",
+        "Rotational Velocity (km": {
+           "s)": null
+        }
+     }
+     ],
+   "exoplanets" : [
+      {
+        "Name": "Proxima Centauri b",
+        "Type": "Planet, Exoplanet, Super Earth",
+        "Host Star": "Proxima Centauri",
+        "Mass (Earth Mass M⊕)": 1.39,
+        "Radius (Earth Radius R⊕)": 1.185,
+        "Temperature (K)": 234,
+        "Semi-major Axis (AU)": 0.0485,
+        "Eccentricity": 0.124,
+        "Orbital Period (days)": 11.18427,
+        "Distance Away (light years)": 4.2,
+        "Constellation": "Centaurus"
+      },
+      {
+        "Name": "Proxima Centauri c",
+        "Type": "Planet, Exoplanet",
+        "Host Star": "Proxima Centauri",
+        "Mass (Earth Mass M⊕)": 7,
+        "Radius (Earth Radius R⊕)": 1,
+        "Temperature (K)": 39,
+        "Semi-major Axis (AU)": 1.489,
+        "Eccentricity": 0.04,
+        "Orbital Period (days)": 1928,
+        "Distance Away (light years)": 4.2,
+        "Constellation": "Centaurus"
+      },
+      {
+        "Name": "Barnard's Star b, GJ 699 b \n",
+        "Type": "Planet, Exoplanet",
+        "Host Star": "Barnard's Star",
+        "Mass (Earth Mass M⊕)": 3.23,
+        "Radius (Earth Radius R⊕)": 1.365,
+        "Temperature (K)": 105,
+        "Semi-major Axis (AU)": 0.404,
+        "Eccentricity": 0.32,
+        "Orbital Period (days)": 232.8,
+        "Distance Away (light years)": 6,
+        "Constellation": "Ophiuchus"
+      },
+      {
+        "Name": "51 Pegasi b, 51 Peg b, Dimidium",
+        "Type": "Planet, Exoplanet",
+        "Host Star": "51 Pegasi",
+        "Mass (Earth Mass M⊕)": 146.237,
+        "Radius (Earth Radius R⊕)": 21.29698233,
+        "Temperature (K)": 1284,
+        "Semi-major Axis (AU)": 0.0527,
+        "Eccentricity": 0.013,
+        "Orbital Period (days)": 4.230785,
+        "Distance Away (light years)": 50,
+        "Constellation": "Pegasus"
+      },
+      {
+        "Name": "Kepler-186f",
+        "Type": "Planet, Exoplanet",
+        "Host Star": "\tKepler-186",
+        "Mass (Earth Mass M⊕)": 1.4,
+        "Radius (Earth Radius R⊕)": 1.7,
+        "Temperature (K)": 188,
+        "Semi-major Axis (AU)": 0.432,
+        "Eccentricity": 0.04,
+        "Orbital Period (days)": 129.9444,
+        "Distance Away (light years)": 500,
+        "Constellation": "Cygnus"
+      },
+      {
+        "Name": "\n55 Cancri e, Janssen",
+        "Type": "Planet, Exoplanet, Super Earth",
+        "Host Star": "Copernicus, 55 Cancri System",
+        "Mass (Earth Mass M⊕)": 8.08,
+        "Radius (Earth Radius R⊕)": 1.9,
+        "Temperature (K)": 2973.15,
+        "Semi-major Axis (AU)": 0.01544,
+        "Eccentricity": 0.03,
+        "Orbital Period (days)": 0.7,
+        "Distance Away (light years)": 41,
+        "Constellation": "Cancer"
+      },
+      {
+        "Name": "Gliese 581c, Gl 581c, GJ 581c",
+        "Type": "Planet, Exoplanet, Super Earth",
+        "Host Star": "Gliese 581",
+        "Mass (Earth Mass M⊕)": 5.5,
+        "Radius (Earth Radius R⊕)": 1.5,
+        "Temperature (K)": 313.15,
+        "Semi-major Axis (AU)": 0.0721,
+        "Eccentricity": 0,
+        "Orbital Period (days)": 12.914,
+        "Distance Away (light years)": 20.37,
+        "Constellation": "Libra"
+      }
+     ]
 }
